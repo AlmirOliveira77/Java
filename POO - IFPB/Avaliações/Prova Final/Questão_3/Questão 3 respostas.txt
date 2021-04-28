@@ -1,0 +1,7 @@
+a) Uma classe concreta pode herdar quaisquer (inclusive todos) métodos de uma classe abstrata, e ela não tem que se tornar abstrata por isso.
+b) verdadeiro
+c) verdadeiro
+d) Toda classe tem um construtor
+e) verdadeiro.
+f) Para usar Map não é preciso criar um Comparator
+g) verdadeiro.
